@@ -79,7 +79,7 @@ require (
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
 	gopkg.in/jcmturner/gokrb5.v7 v7.3.0 // indirect
 	gopkg.in/validator.v2 v2.0.0-20180514200540-135c24b11c19
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
 
 replace github.com/jmoiron/sqlx v1.2.0 => github.com/mfateev/sqlx v0.0.0-20180910213730-fa49b1cf03f7
